@@ -10,7 +10,7 @@ import java.io.FileNotFoundException;
 
 
 /* RESOURCES USED FOR THIS ASSIGMENT
-* Credit for the KMP algorithm and search method (lines 22-58)
+* Credit for the KMP algorithm and search method (lines 21-57)
 * were taken from Algorithms, Robert Sedgewick, Kevin Wayne page 781.
 * and from string search slides on Nishant Mehta's website
 * (slides 35 and 60)
